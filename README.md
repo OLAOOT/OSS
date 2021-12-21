@@ -1,7 +1,5 @@
 # 무궁화 꽃이 피었습니다 
-### red light, green light
 
----
 ## Introduction
 Seoultech CS - OSS 과목의 term project로 개발했습니다.
 
@@ -48,5 +46,4 @@ mediapipe Pose는 사진이나 영상의 사람을 감지하여, 각 부위를 l
 
 ## License
 
----
 - MIT
